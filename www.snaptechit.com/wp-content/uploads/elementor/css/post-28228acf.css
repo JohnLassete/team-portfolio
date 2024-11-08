@@ -1,0 +1,90 @@
+.elementor-2822 .elementor-element.elementor-element-42da869:not(.elementor-motion-effects-element-type-background), .elementor-2822 .elementor-element.elementor-element-42da869 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("../../2021/10/cmmc-hardhat-flag-image-1.jpg");background-position:center center;background-size:cover;}.elementor-2822 .elementor-element.elementor-element-42da869 > .elementor-background-overlay{background-color:#000000;opacity:0.5;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-2822 .elementor-element.elementor-element-42da869{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:50px 50px 50px 50px;}.elementor-2822 .elementor-element.elementor-element-8a3b763 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-2822 .elementor-element.elementor-element-908836b{margin-top:0px;margin-bottom:0px;}.elementor-bc-flex-widget .elementor-2822 .elementor-element.elementor-element-12e4221.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-2822 .elementor-element.elementor-element-12e4221.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-2822 .elementor-element.elementor-element-12e4221 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:5px;}.elementor-bc-flex-widget .elementor-2822 .elementor-element.elementor-element-64f8ab2.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-2822 .elementor-element.elementor-element-64f8ab2.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-2822 .elementor-element.elementor-element-64f8ab2 > .elementor-element-populated{border-style:solid;border-width:0px 0px 0px 2px;border-color:#EE8035;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:20px 30px 20px 30px;}.elementor-2822 .elementor-element.elementor-element-64f8ab2 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-widget-heading .elementor-heading-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-2822 .elementor-element.elementor-element-e596f8c .elementor-heading-title{color:#FFFFFF;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-2822 .elementor-element.elementor-element-18eba0d{padding:50px 50px 50px 50px;}.elementor-2822 .elementor-element.elementor-element-f3f7b4c{margin-top:-30px;margin-bottom:40px;}.elementor-2822 .elementor-element.elementor-element-61646ae:not(.elementor-motion-effects-element-type-background), .elementor-2822 .elementor-element.elementor-element-61646ae > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-4f16102 );}.elementor-2822 .elementor-element.elementor-element-61646ae{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:30px 30px 30px 30px;}.elementor-2822 .elementor-element.elementor-element-61646ae > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-2822 .elementor-element.elementor-element-af3961b{text-align:center;}.elementor-2822 .elementor-element.elementor-element-af3961b .elementor-heading-title{color:#FFFFFF;font-family:"Roboto", Sans-serif;font-weight:bold;}.elementor-widget-button .elementor-button{background-color:var( --e-global-color-accent );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-2822 .elementor-element.elementor-element-f9348c8 .elementor-button{background-color:#000000;}:root{--page-title-display:none;}@media(min-width:768px){.elementor-2822 .elementor-element.elementor-element-12e4221{width:29.231%;}.elementor-2822 .elementor-element.elementor-element-64f8ab2{width:70.769%;}}/* Start custom CSS */.gform {
+	color: #333;
+}
+	
+.gform_page{
+    background: #f6f6f6;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+
+.gform_page_fields {
+    width: 60%;
+    float: left;
+    padding: 20px 30px;
+    margin: 0 0 20px 0;
+    background: #F6F6F6;
+}
+
+
+.gform_wrapper.gravity-theme .gform_page_footer {
+	padding: 16px 0;
+	background: #eee;
+	margin: 20px -20px -20px !important;
+	border-radius: 0 0 5px 5px;
+	text-align: center;
+	clear: both;
+}
+	
+.gform_wrapper.gravity-theme .gf_progressbar_title {
+	font-size: 15px !important;
+}
+	
+.button {
+	width: 200px !important;
+	margin: 5px 3px !important;
+	border-color: #009997 !important;
+	color: #009997 !important;
+	background: none !important;
+	border: 1px solid !important;
+}
+
+.button:hover,
+.button:active,
+.button:focus {
+	border-color: #009997 !important;
+	color: #fff !important;
+	background: #009997 !important;
+}
+	
+	
+.gform_required_legend {
+	display: none;
+}
+	
+	
+.cmmc-page-content {
+    float: left;
+    width: 40%;
+    border: 2px solid #eee;
+    border-radius: 5px;
+		margin: 0 0 20px 0;
+    padding: 20px;
+    background: #fff;
+}
+	
+.cmmc-page-content img {
+		max-width: 100%;
+		height: auto;
+}
+
+.cmmc-page-content h2 {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.cmmc-page-content h3 {
+    font-size: 20px;
+    font-weight: bold;
+		color: #222;
+}
+
+.cmmc-page-content h4 {
+    font-size: 15px;
+		color: #539ED5;
+}
+
+.cmmc-page-content h4 strong {
+	color: #222;
+}/* End custom CSS */
