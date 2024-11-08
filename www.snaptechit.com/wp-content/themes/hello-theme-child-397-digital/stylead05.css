@@ -1,0 +1,92 @@
+/* Scss Document */
+/* 
+Theme Name: 397 Digital - Hello Theme
+Theme URI: https://github.com/elementor/hello-theme/
+Description: Hello Elementor Child is a child theme of Hello Elementor, created by Elementor team
+Author: 397 Digital
+Author URI: https://397digital.com/
+Template: hello-elementor
+Version: 1.0.1
+Text Domain: hello-elementor-child
+License: GNU General Public License v3 or later.
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Tags: flexible-header, custom-colors, custom-menu, custom-logo, editor-style, featured-images, rtl-language-support, threaded-comments, translation-ready
+*/
+.profiles {
+  margin: 0 auto;
+  padding: 0 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; }
+  .profiles.leadership {
+    /*max-width: 900px;*/ }
+  .profiles .slick-arrow {
+    border: 0;
+    height: 60px;
+    top: 45%;
+    position: absolute;
+    background: none; }
+    .profiles .slick-arrow.slick-prev {
+      left: 0px; }
+    .profiles .slick-arrow.slick-next {
+      right: 0px; }
+    .profiles .slick-arrow .fa, .profiles .slick-arrow .fas {
+      color: #8B8B8B;
+      font-size: 20px; }
+    .profiles .slick-arrow:hover, .profiles .slick-arrow:active, .profiles .slick-arrow:focus {
+      background: none; }
+
+.profile {
+  text-align: center;
+  min-height: 0;
+  min-width: 0; }
+  .profile img {
+    max-width: 100%;
+    margin: 0 0 5px; }
+  .profile h3, .profile h4, .profile h5, .profile p {
+    margin: 0;
+    color: #2F5B7E; }
+  .profile.leadership {
+    width: 33%;
+    padding: 30px; }
+  .profile.team {
+    width: 25%;
+    min-height: 0;
+    min-width: 0;
+    padding: 30px 20px; }
+    .profile.team h5 {
+      margin: 15px 0 5px; }
+    .profile.team p {
+      font-size: 15px;
+      line-height: 1.2; }
+
+.gform_wrapper {
+  font-size: 16px; }
+
+.hs-form-iframe {
+  width: 100% !important; }
+
+/* Mobile view, default */
+/*
+#cyberdefense-subnav {
+	top: 108px !important;
+}
+
+
+@media screen and (min-width: 768px) {
+	
+	#cyberdefense-subnav {
+		top: 67px !important;
+	}	
+	
+}
+
+
+@media screen and (min-width: 1024px) {
+	
+	#cyberdefense-subnav {
+		top: 95px !important;
+	}	
+	
+}
+*/
